@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .textarea {
+    margin-bottom: 10px;
+  }
+  
+  .button {
+    margin-bottom: 10px;
+  }
+  
+  .display-text {
+    font-weight: bold;
+  }
+  
